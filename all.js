@@ -1,4 +1,4 @@
-Quill.register("modules/imageUploader", ImageUploader);
+// Quill.register("modules/imageUploader", ImageUploader);
 
 const toolbarOptions = [
   ['bold', 'italic', 'underline', 'strike'],
